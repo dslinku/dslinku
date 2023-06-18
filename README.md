@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Debadatta Sahoo</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-<img align="right" alt="datascience" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*H4cHks1eEdrW7Zlz.gif">
+<img align="right" alt="datascience" width="400" src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dslinku&label=Profile%20views&color=0e75b6&style=flat" alt="dslinku" /> </p>
 
